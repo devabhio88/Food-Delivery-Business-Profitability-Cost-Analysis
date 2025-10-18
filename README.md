@@ -75,7 +75,8 @@ The dataset (`food_orders_new_delhi.csv`) contains detailed order-level records 
 ## 📎 Project Structure
 
 📁 Food-Delivery-Profitability-Analysis/
+│
 ├── 📄 Food Delivery Business Profitability & Cost Analysis using Python.ipynb
 ├── 📊 food_orders_new_delhi.csv
 ├── 📘 README.md
-└── 📈 results/ (optional graphs, visual outputs)
+└── 📈 results/ #(optional graphs, visual outputs)
